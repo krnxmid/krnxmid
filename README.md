@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm KARAN</h1>
 <h3 align="center">A HOBBYIST FROM INDIA 👨‍💻</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/363821/screenshots/3487973/media/9c2522b1cbe32a39c9680e72d20f7221.gif"
+
 - 🌱 I’m currently learning **ARDUINO, C++**
 
 - 👨‍💻 All of my projects are available at [https://github.com/krnxmid](https://github.com/krnxmid)
