@@ -19,6 +19,7 @@
 
 
 
-![snake gif](https://github.com/krnxmid/krnxmid/blob/output/github-contribution-grid-snake.gif)
+
 
 </p>
+![snake gif](https://github.com/krnxmid/krnxmid/blob/output/github-contribution-grid-snake.gif)
