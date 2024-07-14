@@ -1,25 +1,24 @@
-<h1 align="center">Hi 👋, I'm KARAN</h1>
-<h3 align="center">A HOBBYIST FROM INDIA 👨‍💻</h3>
-<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/363821/screenshots/3487973/media/9c2522b1cbe32a39c9680e72d20f7221.gif"
-
-- 🌱 I’m currently learning **ARDUINO, C++**
-- 👨‍💻 All of my projects are available at [https://github.com/krnxmid](https://github.com/krnxmid)
-- 📫 How to reach me **krnxmid@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/krnxmid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="krnxmid" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.framer.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-<a href="https://www.soldiworks.com" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/SolidWorks_Logo.svg/150px-SolidWorks_Logo.svg.png?20130509090050" alt="solidworks" width="120" height="40"/> </a>
-<a href="https://www.soldiworks.com" target="_blank" rel="noreferrer"> <img src="https://asset.brandfetch.io/idJimtDHbm/idD9TjUUN7.svg?updated=1719343787090" alt="solidworks" width="120" height="40"/> </a>
-<a href="https://www.soldiworks.com" target="_blank" rel="noreferrer"> <img src="https://fmmachine.com/wp-content/uploads/Fusion-360-Logo-Vector.svg--300x83.png" alt="solidworks" width="120" height="40"/> </a>
+# 💫 About Me:
+ Hi i am Krnxmid (Karan)👾<br><br>🔭 I’m currently working on developing as many skills i can<br>🤝 I’m looking for help with Arduino & ESP32<br>🌱 I’m currently learning C++
 
 
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/krnxmid) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/krnxmid) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/user:26368222) 
 
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Solidworks](https://simpleicons.org/icons/dassaultsystemes.svg)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=krnxmid&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=krnxmid&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=krnxmid&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=krnxmid&theme=default&no-frame=false&no-bg=true&margin-w=4)
 
-</p>
-![snake gif](https://github.com/krnxmid/krnxmid/blob/output/github-contribution-grid-snake.gif)
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=krnxmid&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+---
+[![](https://visitcount.itsvg.in/api?id=krnxmid&icon=5&color=6)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
