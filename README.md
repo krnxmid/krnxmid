@@ -21,4 +21,4 @@
 
 
 </p>
-![snake gif](https://github.com/krnxmid/krnxmid/blob/output/github-contribution-grid-snake.gif)
+![github-contribution-grid-snake.gif](https://github.com/krnxmid/krnxmid/blob/output/github-contribution-grid-snake.gif)
