@@ -1,5 +1,5 @@
 # 💫 About Me:
- <br>I really like this emoji: 👾 <br>Hi i am Krnxmid (Karan)👾<br><br>🔭 I’m currently working on developing as many skills i can<br>🤝 I’m looking for help with Arduino & ESP32<br>🌱 I’m currently learning C++
+ <br>I really like this emoji: 👾 <br>Hi i am Krnxmid (Karan)👾<br><br>🔭 I’m currently working on developing as many skills i can<br>🤝 I’m looking for help with Arduino & ESP32<br>🌱 I’m currently learning Python
 
 
 ## 🌐 Socials:
