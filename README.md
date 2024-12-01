@@ -12,6 +12,5 @@ My email: [kforkaranveer@gmail.com](kforkaranveer@gmail.com)
 
 ```diff
 - Error at line 42: `Unexpected token '}'`
-- *Fix: Add a semicolon or just reboot your life.* 😅
 
 ```
