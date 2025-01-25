@@ -1,1 +1,1 @@
-i like python
+i love python and this emoji 👾
