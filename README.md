@@ -7,5 +7,5 @@
 - 👾 Created: `IIot` Applications.
  - 💬 ping me about **Creativity**, **Computer related things**, **Coding**
   
-My website: [`karanveer.lcaforyou.online`](https://karanveer.lcaforyou.com)
-My email: [`kforkaranveer@gmail.com`](kforkaranveer@gmail.com)
+My blog-site: [`krnxmid.github.io`](https://krnxmid.github.io)
+My email: `kforkaranveer@gmail.com`
